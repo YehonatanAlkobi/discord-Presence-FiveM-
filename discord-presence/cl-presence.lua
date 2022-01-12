@@ -1,4 +1,3 @@
---all rights reserved to "chick"
 local QBCore = nil
 
 function FirstToUpper(input)
